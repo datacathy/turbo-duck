@@ -30,6 +30,10 @@ module:
 ## ADVANCED
 ############################
 
+backend:
+  name: github
+  repo: datacathy/turbo-duck
+  branch: main
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
