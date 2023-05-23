@@ -30,9 +30,6 @@ module:
 ## ADVANCED
 ############################
 
-backend:
-  name: github
-  branch: main
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
